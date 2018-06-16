@@ -8,7 +8,7 @@ Full pool of random themes/questions must be placed in the **Optional random que
 
 If, perhaps, your pool of themes/questions is bigger than the number of students and there are some themes/questions that you want to make sure are given away to the students you must take them from the previous *Optional random quesitons* field and put them into the **Mandatory random questions** field.
 
-![Edit area for a random questoin instance](https://raw.githubusercontent.com/alfaschz/random-question/blob/master/random-question.png)
+![Edit area for a random question instance](https://github.com/AlfaSchz/random-question/blob/master/random-question.png)
 
 The teacher can see the distributed questions and answers so far. 
 

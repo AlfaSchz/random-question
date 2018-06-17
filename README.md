@@ -1,4 +1,4 @@
-# random-question
+# Moodle mod to create and distribute random question/themes to your students
 
 Moodle mod that allows the random distribution of a set of questions to the students of a course. 
 
